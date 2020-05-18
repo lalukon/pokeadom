@@ -6,9 +6,8 @@ _CeruleanGymText_5c7be:: ; 989c1 (26:49c1)
 	cont "צריכים שתהיה להם"
 	cont "גישה ל#ימונים!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "מה הגישה שלך"
+	line "לתפיסת #ימונים?"
 
 	para "My policy is an"
 	line "all-out offensive"
