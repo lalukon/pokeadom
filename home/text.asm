@@ -242,17 +242,17 @@ FinishDTE:: ; 1a4b (0:1a4b)
 Char5CText:: ; 1a55 (0:1a55)
 	db "TM@"
 Char5DText:: ; 1a58 (0:1a58)
-	db "TRAINER@"
+	db "ןמאמ@"
 Char5BText:: ; 1a60 (0:1a60)
 	db "PC@"
 Char5EText:: ; 1a63 (0:1a63)
 	db "ROCKET@"
 Char54Text:: ; 1a6a (0:1a6a)
-	db "פוק@"
+	db "קופ@"
 Char56Text:: ; 1a6f (0:1a6f)
 	db "……@"
 Char5AText:: ; 1a72 (0:1a72)
-	db " היריב@"
+	db " ביריה@"
 Char4AText:: ; 1a79 (0:1a79)
 	db $E1,$E2,"@" ; PKMN
 
